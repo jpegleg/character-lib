@@ -1,2 +1,3 @@
 # character-lib
-unicode character library
+unicode and joyo-kanji character library
+more to come soon
